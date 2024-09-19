@@ -1,7 +1,7 @@
 import java.util.Map;
 import java.util.HashMap;
 
-class Solution {
+class TwoSum {
 
     public int[] twoSumNSquared(int[] nums, int target) {
         int temp = 0;
